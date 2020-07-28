@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MyFileProcessing</string>
+
+    <string name="title">Aplikasi PDF Viewer</string>
+    <string name="web_view">Buka dgn WebView</string>
+    <string name="assets">Buka dari Assets</string>
+    <string name="storage">Buka dari Penyimpanan</string>
+    <string name="internet">Buka dari Internet</string>
 </resources>
